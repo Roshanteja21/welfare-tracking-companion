@@ -1,0 +1,34 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+body{
+    background: white;
+}
+
+div{
+    text-align: center;
+}
+#div1{
+  text-align: center;
+}
+#div2{
+  text-align: center;
+}
+#div3{
+  text-align: center;
+}
+#div4{
+  text-align: center;
+}
+#div5{
+  text-align: center;
+}
+#div6{
+  text-align: center;
+}
+#div7{
+  text-align: center;
+}
